@@ -1,0 +1,9 @@
+button {
+  position: absolute;
+}
+.yellowMode {
+  background-color: yellow;
+}
+.orangeMode {
+  background-color: orange;
+}

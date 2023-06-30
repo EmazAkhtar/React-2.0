@@ -1,0 +1,11 @@
+input {
+  display: block;
+  padding: 10px;
+  margin-bottom: 5px;
+}
+.yellowMode {
+  background-color: yellow;
+}
+.orangeMode {
+  background-color: orange;
+}
